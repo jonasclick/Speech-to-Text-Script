@@ -22,6 +22,8 @@ pip install --upgrade openai
 4. **Prepare Audio File:** Place the audio file you want to transcribe in the same folder as the script. Rename it to 'audio.wav'.
 5. **Run the Script:** Execute the script. On first execution you will be asked to provide your API Key. Your key will then be stored in an .env file locally in the same folder as the script. Your key will not be shared. Do not share your key.  
 
+You can monitor the usage of your balance [here](https://platform.openai.com/usage). This way you always keep an overview of the cost of your usage.
+
 ## What Languages are Supported?
 
 You can expect good results when transcribing the following languages:  
